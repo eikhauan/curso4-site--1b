@@ -1,3 +1,8 @@
+body {
+    background: rgb(169, 240, 203);
+
+}
+
 
 h1 {
     text-align: center;
@@ -8,4 +13,4 @@ p {
     text-align: center;
     background: rgb(151, 231, 190);
 }
-
+    
