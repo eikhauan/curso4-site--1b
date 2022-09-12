@@ -1,9 +1,14 @@
 
+#celular {
+    width: 100;
+    height: 100px;
+}
+
 
 h1 {
     text-align: center;
     background: rgb(169, 240, 203);
-
+    
 }
 
 p {
