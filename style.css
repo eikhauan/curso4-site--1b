@@ -15,11 +15,18 @@ h1 {
 p {
 
     text-align: center;
-  
 }
+
+.beneficios {
+    background: blue;
+}
+
     ul {
+    
         display: inline-block;
+        vertical-align: top;
     }
+
     #celular1 {
-         width: 50%;
+         width: 20%;
     }
