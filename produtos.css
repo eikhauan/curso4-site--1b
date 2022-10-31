@@ -21,3 +21,8 @@ h1 {
     margin: 10px;
 
  }
+
+ nav a {
+    text-transform: uppercase;
+    color: rgb(33, 22, 70);
+ }
