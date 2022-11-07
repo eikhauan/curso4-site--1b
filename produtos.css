@@ -1,8 +1,12 @@
 header{
     background-color: rgb(33, 107, 107);
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+    
+}
+  
+.caixa-nav{
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
 }
 
 h1 {
