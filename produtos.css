@@ -48,10 +48,14 @@ h1 {
  .produtos li {
    display: inline-block;
    text-align: center;
-   width: ;
+
  }
 
   .item {
     width: 350px;
     height: 260px;
   }
+.produtos li h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
